@@ -1,4 +1,4 @@
-# Final Report
+# Roomies
 
 Our team for the final project is composed of Seokju Yun, Kriti Gurubacharya,
 Neil Resnik, and Benjamin Wakefield. The app is fully deployed and functional at
