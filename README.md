@@ -1,9 +1,7 @@
 # Roomies
 
 Our team for the final project is composed of Seokju Yun, Kriti Gurubacharya,
-Neil Resnik, and Benjamin Wakefield. The app is fully deployed and functional at
-https://roommate.gkriti.art, with the full code available at
-https://github.com/kriti-g/cs4550-final-project.
+Neil Resnik, and Benjamin Wakefield.
 
 Each group member was able to efficiently tackle different tasks through use of
 Github issues. Seokju worked on setting up the JS Redux store and API helpers,
